@@ -1,3 +1,18 @@
+## Bem vindo(a) a página de ajuda do site ideasistemas.com.br
+
+O objetivo desta página é oferecer uma ajuda rápida e permanente para as principais dúvidas em relação a administração de conteúdo do site através do Wordpress.
+
+Caso a sua dúvida não seja atendida através dos tópicos abaixo, por favor encaminhe a sua questão para o e-mail: suporte@gasoline-digital.com
+
+### Como alterar o conteúdo da topbar, logo da empresa, configurações do formulário de contato, entre outros
+Através da personalização de site, é possível alterar diversas configurações e informações do site, vide abaixo.:
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/GasolineDigital/help.ideasistemas.com.br/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
